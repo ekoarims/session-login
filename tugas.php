@@ -7,11 +7,11 @@
 </head>
 <body>
 <p>dibawah ini sebagan tugas dari materi sebelumnya</p>
-<a href="../gajiBersih.php">1.menghitung gaji</a><br>
-<a href="../inputNilai.php">2.input data</a><br>
-<a href="../membuatForm_GET.php">3.membuat form dengan menggunakan GET</a><br>
-<a href="../membuatform_POST.php">4.membuat form dengan menggunakan POST</a><br>
-<a href="../menghitungLuaskubus.php">5.menghitung luas kubus</a><br>
+<a href="gajiBersih.php">1.menghitung gaji</a><br>
+<a href="inputNilai.php">2.input data</a><br>
+<a href="membuatForm_GET.php">3.membuat form dengan menggunakan GET</a><br>
+<a href="membuatform_POST.php">4.membuat form dengan menggunakan POST</a><br>
+<a href="menghitungLuaskubus.php">5.menghitung luas kubus</a><br>
 
 <b>
 <br>
